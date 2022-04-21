@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">My_App</string>
+    <string name="app_name">My EV Charger</string>
+    <string name="default_email">default.email@gmailc.om</string>
+    <string name="default_password">***************</string>
+    <string name="login">Login</string>
+    <string name="register">Register here</string>
+    <string name="welcome">Welcome,</string>
+    <string name="battery">Your battery is at </string>
+    <string name="distance">You have about </string>
+    <string name="profile_button">Profile</string>
+    <string name="qrbuttontext">ScanQR</string>
+    <string name="signup">Sign Up</string>
+    <string name="background_img">background_img</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="signup_failed">Signup Failed</string>
+    <string name="user_created_successfully">User Created Successfully</string>
+    <string name="password_mismatch">Password Mismatch</string>
+    <string name="enter_correct_email">Enter Correct Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="enter_name">Enter Name</string>
 </resources>
