@@ -7,8 +7,15 @@
         <entry key="..\:/Users/trobe/AndroidStudioProjects/My_App/app/src/main/res/drawable/button_corner.xml" value="0.2865" />
         <entry key="..\:/Users/trobe/AndroidStudioProjects/My_App/app/src/main/res/drawable/text_input_background.xml" value="0.2865" />
         <entry key="..\:/Users/trobe/AndroidStudioProjects/My_App/app/src/main/res/font/roboto.xml" value="0.396875" />
+        <entry key="..\:/Users/trobe/AndroidStudioProjects/My_App/app/src/main/res/layout/activity_charger_manual_search.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/trobe/AndroidStudioProjects/My_App/app/src/main/res/layout/activity_charger_navigation.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/trobe/AndroidStudioProjects/My_App/app/src/main/res/layout/activity_charger_smart_search.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/trobe/AndroidStudioProjects/My_App/app/src/main/res/layout/activity_home.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/trobe/AndroidStudioProjects/My_App/app/src/main/res/layout/activity_login.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/trobe/AndroidStudioProjects/My_App/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/trobe/AndroidStudioProjects/My_App/app/src/main/res/layout/activity_reservation_authentication.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/trobe/AndroidStudioProjects/My_App/app/src/main/res/layout/activity_reservation_details.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/trobe/AndroidStudioProjects/My_App/app/src/main/res/layout/activity_reservation_manager.xml" value="0.18802083333333333" />
         <entry key="..\:/Users/trobe/AndroidStudioProjects/My_App/app/src/main/res/layout/activity_signup.xml" value="0.358695652173913" />
       </map>
     </option>
