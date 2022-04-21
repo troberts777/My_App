@@ -21,7 +21,7 @@
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/etName"
             android:layout_width="match_parent"
-            android:layout_height="48dp"
+            android:layout_height="55dp"
             android:layout_gravity="fill"
             android:background="@drawable/text_input_background"
             android:hint="@string/enter_email"
@@ -47,7 +47,7 @@
         <com.google.android.material.textfield.TextInputEditText
             android:id="@+id/etPassword"
             android:layout_width="match_parent"
-            android:layout_height="48dp"
+            android:layout_height="55dp"
             android:background="@drawable/text_input_background"
             android:hint="@string/enter_password"
             android:paddingLeft="8dp"
